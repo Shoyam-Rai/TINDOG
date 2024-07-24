@@ -1,8 +1,6 @@
 # TINDOG
 ![image](https://github.com/user-attachments/assets/b046d55e-8047-4ebd-a92d-facaa8b83b6b)
 
-Here's the updated GitHub introduction with your website name, TinDog:
-
 ---
 
 # TinDog
@@ -20,60 +18,6 @@ Welcome to TinDog! This engaging website is designed for dog owners to connect t
 - **CSS**: Styling language used to design the visual appearance of the website.
 - **Bootstrap**: Front-end framework for developing responsive, mobile-first websites, providing ready-to-use components and styles.
 
-## Demo
-
-Check out the live demo of TinDog [here](#).
-
-## Getting Started
-
-Follow these instructions to set up TinDog on your local machine for development and testing purposes.
-
-### Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/tindog.git
-   ```
-
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd tindog
-   ```
-
-3. **Open `index.html` in your web browser:**
-
-   ```bash
-   open index.html
-   ```
-
-   Alternatively, you can open the `index.html` file directly in your preferred web browser.
-
-## Project Structure
-
-```
-tindog/
-│
-├── css/                    # Contains custom CSS files
-│   └── styles.css
-│
-├── js/                     # Contains JavaScript files (if any)
-│   └── scripts.js
-│
-├── images/                 # Contains images used in the website
-│   └── (various images)
-│
-├── index.html              # Main HTML file
-│
-└── README.md               # Project README file
-```
-
-## Usage
-
-- **Browse Profiles**: Navigate through the site to view profiles of other dogs and learn more about them.
-- **Search and Filter**: Use the search and filter options to find specific types of dogs or to match specific criteria.
-- **Create a Profile**: If applicable, follow the instructions to create and manage a profile for your dog.
 
 ## Customization
 
